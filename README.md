@@ -1,4 +1,6 @@
 # Gravitational-Waves-ICL-Summer-Project
+This is a revised, cleaned up repository for this Imperial College London Summer Physics Project.
+
 
 Signal Processing Pipeline 
 Designed and implemented a full data processing pipeline to extract gravitational wave signals from noisy LIGO observational data. Implemented Butterworth bandpass filtering and cross-correlation matched filtering techniques to isolate the GW150914 signal from background noise.
